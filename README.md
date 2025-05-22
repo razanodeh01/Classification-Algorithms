@@ -53,3 +53,5 @@ Each model was evaluated consistently across these metrics to determine its effe
 - [**Razan Abdalrahman**](https://github.com/razanodeh01)  
 - [**Hidaya Mustafa**](https://github.com/HidayaMustafa)
 
+
+> ⚖️ *Balancing accuracy and insight — comparing core ML classifiers for medical diagnosis.*
