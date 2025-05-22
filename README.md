@@ -50,6 +50,6 @@ A machine learning assignment focused on classification algorithms including K-N
 Each model was evaluated consistently across these metrics to determine its effectiveness and reliability.
 
 ## 👥 Authors
-- [**Razan Abdelrahman**](https://github.com/razanodeh01)  
+- [**Razan Abdalrahman**](https://github.com/razanodeh01)  
 - [**Hidaya Mustafa**](https://github.com/HidayaMustafa)
 
