@@ -1,4 +1,4 @@
-# 🧠 Classification Algorithms – Assignment #3
+# 🧠 Classification Algorithms (ML Assignment #3)
 
 ## 📄 About the Assignment
 
